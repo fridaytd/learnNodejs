@@ -1,0 +1,1 @@
+This is the result of readFile: Hello this is the first file text, Hello world how
